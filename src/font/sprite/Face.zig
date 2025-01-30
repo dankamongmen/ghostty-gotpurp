@@ -236,6 +236,8 @@ const Kind = enum {
             // (Geometric Shapes)
             // 🯠 🯡 🯢 🯣 🯤 🯥 🯦 🯧 🯨 🯩 🯪 🯫 🯬 🯭 🯮 🯯
             0x1FBCE...0x1FBEF,
+            // (Octants)
+            0x1cd00...0x1cde5,
             => .box,
 
             // Branch drawing character set, used for drawing git-like
